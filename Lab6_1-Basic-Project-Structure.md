@@ -205,6 +205,7 @@ ls build/
 idf.py size
 
 # บันทึกภาพตาราง ใส่ในไฟล์ส่งงาน
+![alt text](image-4.png)
 
 # ดูรายละเอียดขนาดตาม component
 idf.py size-components
